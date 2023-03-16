@@ -24,6 +24,10 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 ---
 
 ## Tableau
+| Project Name | Description | Tableau Dashboard |
+| --- | --- | --- |
+| Sales Data Exploration |Explored a sales dataset and generated various analytics and insights from customers' past purchase behavior | [Link](https://public.tableau.com/views/SalesDashboard1_16786765721100/SalesDashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) |
+
 ---
 
 ## PowerBi
