@@ -6,7 +6,7 @@ Welcome to my Portfolio Guide where I provide a walkthrough to all of my data an
 Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/alumassy/) about my projects!
 
 ### 📚Table of Contents
-- SQL
+- [SQL](https://github.com/alumassy/Portfolio-Guide/edit/main/README.md#sql)
 - Python
 - Tableau
 - PowerBi
@@ -22,5 +22,5 @@ Click on the project's title (coloured in Blue) to view my projects! Thank you! 
 ## Tableau
 ---
 
-# PowerBi
+## PowerBi
 ---
