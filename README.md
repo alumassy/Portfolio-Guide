@@ -14,6 +14,10 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/alumassy/) a
 Click on the project's title (coloured in Blue) to view my projects! Thank you! ☺️
 
 ## SQL
+Level: Intermediate SQL
+
+Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASEW WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation.
+
 ---
 
 ## Python
