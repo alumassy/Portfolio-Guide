@@ -9,7 +9,7 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/alumassy/) a
 - [SQL](https://github.com/alumassy/Portfolio-Guide/edit/main/README.md#sql)
 - Python
 - Tableau
-- PowerBi
+- [PowerBi](https://github.com/alumassy/Portfolio-Guide/edit/main/README.md#powerbi)
 
 Click on the project's title (coloured in Blue) to view my projects! Thank you! ☺️
 
