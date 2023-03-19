@@ -30,7 +30,7 @@ Libraries: pandas, numpy, matplotlib, seaborn
 
 | Project Name | Area | Description | Libraries |
 | --- | --- | --- | --- |
-| [Lego Analysis - Rebrickable]() | Data Wrangling & EDA | Explored Lego data from 1949 to 2023 to explore the parts included in different lego sets | Pandas, Numpy |
+| [Lego Analysis - Rebrickable](https://github.com/alumassy/Data-Analysis-Projects/blob/main/Lego%20Data%20Analysis%20with%20Python.ipynb) | Data Wrangling & EDA | Explored Lego data from 1949 to 2023 to explore the parts included in different lego sets | Pandas, Numpy |
 
 ---
 
