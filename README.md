@@ -7,6 +7,7 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/alumassy/) a
 
 ### 📚Table of Contents
 - [SQL](https://github.com/alumassy/Portfolio-Guide/edit/main/README.md#sql)
+- [Excel](https://github.com/alumassy/Portfolio-Guide/edit/main/README.md#excel)
 - [Python](https://github.com/alumassy/Portfolio-Guide/edit/main/README.md#python)
 - [Tableau](https://github.com/alumassy/Portfolio-Guide/edit/main/README.md#tableau)
 - [PowerBi](https://github.com/alumassy/Portfolio-Guide/edit/main/README.md#powerbi)
@@ -19,8 +20,18 @@ Level: Intermediate SQL
 Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASEW WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation.
 
 ---
+## Excel
+---
 
 ## Python
+Skills: Data cleaning, wrangling, visualisation, analysis
+
+Libraries: pandas, numpy, matplotlib, seaborn
+
+| Project Name | Area | Description | Libraries |
+| --- | --- | --- | --- |
+| [Lego Analysis - Rebrickable]() | Data Wrangling & EDA | Explored Lego data from 1949 to 2023 to explore the parts included in different lego sets | Pandas, Numpy |
+
 ---
 
 ## Tableau
