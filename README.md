@@ -21,7 +21,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 | Project Name | Description | SQL Functions used | 
 | --- | --- | --- |
-| [🍜Danny's Diner](https://github.com/alumassy/Data-Analysis-Projects/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner.sql) | I gathered, queried and analyzed customer data to determine their visiting patterns, spending habits, and favorite menu items. | CASE when, SUM, LEFT JOIN, COUNT etc. |
+| [🍜Danny's Diner](https://github.com/alumassy/8WeekSQLChallenge#case-study-1---dannys-diner) | I gathered, queried and analyzed customer data to determine their visiting patterns, spending habits, and favorite menu items. | CASE when, SUM, LEFT JOIN, COUNT etc. |
 ---
 ## Excel
 ---
