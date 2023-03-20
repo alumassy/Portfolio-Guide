@@ -17,8 +17,11 @@ Click on the project's title (coloured in Blue) to view my projects! Thank you! 
 ## SQL
 Level: Intermediate SQL
 
-Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASEW WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation.
+Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation.
 
+| Project Name | Description | SQL Functions used | 
+| --- | --- | --- |
+| [🍜Danny's Diner](https://github.com/alumassy/Data-Analysis-Projects/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner.sql) | I gathered, queried and analyzed customer data to determine their visiting patterns, spending habits, and favorite menu items. | CASE when, SUM, LEFT JOIN, COUNT etc. |
 ---
 ## Excel
 ---
