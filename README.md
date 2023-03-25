@@ -40,8 +40,8 @@ Libraries: pandas, numpy, matplotlib, seaborn
 ## Tableau
 | Project Name | Description | Tableau Dashboard |
 | --- | --- | --- |
+| Customer Analysis | I carried out a descriptive customer analysis and presented the insights using different charts like the butterfly chart, scatter plot among others. | [Link](https://public.tableau.com/views/CustomerAnalysis_16797093585620/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) |
 | Sales Data Exploration |Explored a sales dataset and generated various analytics and insights from customers' past purchase behavior | [Link](https://public.tableau.com/views/SalesDashboard1_16786765721100/SalesDashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) |
-
 ---
 
 ## PowerBi
