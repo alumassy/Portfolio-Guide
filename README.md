@@ -6,11 +6,11 @@ Welcome to my Portfolio Guide where I provide a walkthrough to all of my data an
 Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/alumassy/) about my projects!
 
 ### 📚Table of Contents
-- [SQL](https://github.com/alumassy/Portfolio-Guide/edit/main/README.md#sql)
-- [Excel](https://github.com/alumassy/Portfolio-Guide/edit/main/README.md#excel)
-- [Python](https://github.com/alumassy/Portfolio-Guide/edit/main/README.md#python)
-- [Tableau](https://github.com/alumassy/Portfolio-Guide/edit/main/README.md#tableau)
-- [PowerBi](https://github.com/alumassy/Portfolio-Guide/edit/main/README.md#powerbi)
+- [SQL](https://github.com/alumassy/Portfolio-Guide/main/README.md#sql)
+- [Excel](https://github.com/alumassy/Portfolio-Guide/main/README.md#excel)
+- [Python](https://github.com/alumassy/Portfolio-Guide/main/README.md#python)
+- [Tableau](https://github.com/alumassy/Portfolio-Guide/main/README.md#tableau)
+- [PowerBi](https://github.com/alumassy/Portfolio-Guide/main/README.md#powerbi)
 
 Click on the project's title (coloured in Blue) to view my projects! Thank you! ☺️
 
