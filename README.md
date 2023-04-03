@@ -6,7 +6,7 @@ Welcome to my Portfolio Guide where I provide a walkthrough to all of my data an
 Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/alumassy/) about my projects!
 
 ### 📚Table of Contents
-- [SQL](https://github.com/alumassy/Portfolio-Guide/main/README.md#sql)
+- [SQL](https://github.com/alumassy/Portfolio-Guide#sql)
 - [Excel](https://github.com/alumassy/Portfolio-Guide/main/README.md#excel)
 - [Python](https://github.com/alumassy/Portfolio-Guide/main/README.md#python)
 - [Tableau](https://github.com/alumassy/Portfolio-Guide/main/README.md#tableau)
