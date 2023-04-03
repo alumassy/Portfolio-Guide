@@ -7,10 +7,10 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/alumassy/) a
 
 ### 📚Table of Contents
 - [SQL](https://github.com/alumassy/Portfolio-Guide#sql)
-- [Excel](https://github.com/alumassy/Portfolio-Guide/main/README.md#excel)
-- [Python](https://github.com/alumassy/Portfolio-Guide/main/README.md#python)
-- [Tableau](https://github.com/alumassy/Portfolio-Guide/main/README.md#tableau)
-- [PowerBi](https://github.com/alumassy/Portfolio-Guide/main/README.md#powerbi)
+- [Excel]([https://github.com/alumassy/Portfolio-Guide#excel)
+- [Python](https://github.com/alumassy/Portfolio-Guide#python)
+- [Tableau](https://github.com/alumassy/Portfolio-Guide#tableau)
+- [PowerBi](https://github.com/alumassy/Portfolio-Guide#powerbi)
 
 Click on the project's title (coloured in Blue) to view my projects! Thank you! ☺️
 
