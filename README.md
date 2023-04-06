@@ -24,6 +24,9 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 | [🍜Danny's Diner](https://github.com/alumassy/8WeekSQLChallenge#case-study-1---dannys-diner) | I gathered, queried and analyzed customer data to determine their visiting patterns, spending habits, and favorite menu items. | CASE when, SUM, LEFT JOIN, COUNT etc. |
 ---
 ## Excel
+| Project Name | Description |
+| --- | --- |
+| [Hr Attrition Analysis](https://github.com/alumassy/Data-Analysis-Projects/blob/main/HR%20Attrition%20Analysis.xlsx) | Analyzed and gained insights into factors that might have contributed in one way or another to the attrition of employees. |
 ---
 
 ## Python
