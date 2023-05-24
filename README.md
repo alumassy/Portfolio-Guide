@@ -37,7 +37,7 @@ Libraries: pandas, numpy, matplotlib, seaborn
 | Project Name | Area | Description | Libraries |
 | --- | --- | --- | --- |
 | [Lego Analysis - Rebrickable](https://github.com/alumassy/Data-Analysis-Projects/blob/main/Lego%20Data%20Analysis%20with%20Python.ipynb) | Data Wrangling & EDA | Explored Lego data from 1949 to 2023 to explore the parts included in different lego sets | Pandas, Numpy |
-| [Ames Housing Data Analysis](https://github.com/alumassy/Data-Analysis-Projects/blob/main/EDA%20%26%20Regression%20Project%20-%20Ames%20Housing%20Data%20.ipynb) | Data Wrangling, EDA, Regression| Analysed 2006 - 2010 Ames housing data | Numpy, Pandas, Matplotlib, Seaborn, Plotly Express, Scikit learn |
+| [Ames Housing Data Analysis](https://github.com/alumassy/Data-Analysis-Projects/blob/main/EDA%20%26%20Regression%20Project%20-%20Ames%20Housing%20Data%20.html) | Data Wrangling, EDA, Regression| Analysed 2006 - 2010 Ames housing data | Numpy, Pandas, Matplotlib, Seaborn, Plotly Express, Scikit learn |
 ---
 
 ## Tableau
